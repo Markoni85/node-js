@@ -8,6 +8,15 @@
                 "Golden State Warriors",
                 "Huston Rocket"
             ]
+        },
+        {
+            "title" : "Question 2: 'Namaste' is traditional greeting in wich Asian language?",
+            "options" : [
+                "Hindi",
+                "Mandaring",
+                "Nepalese",
+                "Thai"
+            ]
         }
     ]
 }
